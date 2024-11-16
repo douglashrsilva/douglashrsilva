@@ -4,7 +4,7 @@ Welcome to my profile!
 
 I don’t have many coding projects to showcase just yet, but I’m actively working on it! Stick around, and you’ll learn more about my journey so far and what brought me to the world of coding.
 
-I come from a background in Business Management, with a decade of experience in Procurement & Supply Chain. I hold a bachelor’s degree in Management Processes Technology and am currently working as an E-Procurement Process Expert at Enercon GmbH. My role focuses on process digitalization and automation, where I develop improvement solutions and collaborate with cross-functional teams to enhance processes and optimize systems continuously. 
+I come from a background in Business Management, with valuabe experience in Procurement & Supply Chain. I hold a bachelor’s degree in Management Processes Technology and am currently working as an E-Procurement Process Expert at Enercon GmbH. My role focuses on process digitalization and automation, where I develop improvement solutions and collaborate with cross-functional teams to enhance processes and optimize systems continuously. 
 
 In addition to my full-time role, I offer end-to-end Power BI services on Upwork, handling everything from data collection to dashboard creation. My advanced analytical skills, combined with expertise in tools like Microsoft Excel (Power Pivot, Macros) and Power BI (DAX, Power Query M), allow me to perform deep data analysis, manage complex datasets, and create comprehensive, insightful dashboards. I also have a track record of delivering complex reports and presentations tailored for C-level executives, leveraging methodologies like data modeling, report automation, and cross-platform integration to transform data into actionable insights.
 
